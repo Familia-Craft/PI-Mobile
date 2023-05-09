@@ -1,16 +1,9 @@
-# pimobile
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Sistema de Agendamento e Empréstimo de Ferramentas 
+Versão Mobile do projeto.
+## Integrantes do Grupo ##
+* Bernardo Oliveira Horta --> [@Rerismildon](https://github.com/Rerismildon)
+* Daniel Rocha de Souza --> [@Ytr00m](https://github.com/ytr00m)
+* Evelyn Vitória Caetano Maestre --> [@izuky0820](https://github.com/izuky0820)
+* João Paulo Pimentel --> [@linkbombado](https://github.com/linkbombado)
+* Rafael Henrique Silva --> [@Rafaelhs2005](https://github.com/Rafaelhs2005)
+* Vander Vantuil Pinto da Rocha Júnior --> [@vandervantuil](https://github.com/vandervantuil)
